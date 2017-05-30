@@ -10,3 +10,9 @@ HC-SR04	Trig pin on D6<br>
 	Echo pin on D7<br>
 Rotate sensor on A0<br>
 IIC LCD1602 on IIC pins, addr=0x27(default), you can change in the source code.
+
+# Current functions
+1. Voltage meter(below 5V)<br>
+2. Temp meter<br>
+3. Ultrasonic distance meter<br>
+4. A bepper software just for fun
